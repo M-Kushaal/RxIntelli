@@ -1,7 +1,7 @@
 # **🩺 LoopCare**
 
 ### ***Your Smart AI Prescription Logger & Intelli Health Search***
-
+* Powered By FAISS , Groq , Pali Gemma Architecture
 ---
 # Customer Friendly UI
 ![alt text](image-1.png)
