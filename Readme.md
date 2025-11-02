@@ -38,7 +38,7 @@ LoopCare makes medical data:
 
 ---
 
-# 🩺 **FEATURES OF LOOPCARE**
+# 🩺 **Features Of Loopcare**
 
 ## 🖥️ Customer Friendly UI
 ![alt text](image-1.png)
