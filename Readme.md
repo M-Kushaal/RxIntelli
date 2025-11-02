@@ -143,12 +143,12 @@ Your browser should automatically open to the application's local address, or ma
 LoopCare isn’t just another healthcare app — it’s a complete **rethink of how prescriptions are handled**.  
 Every feature is built with real impact, privacy, and intelligence at its core.
 
-**Real Healthcare Impact** — Automates the messy, everyday workflows that doctors and patients struggle with.  
-**Truly Smart** — Understands and retrieves prescriptions with semantic precision, not just OCR text.  
-**100% Local & Private** — Your medical data stays with you. No cloud. No leaks. Total control.  
-**Lightning Fast** — Powered by **Groq inference**, enabling real-time, low-latency intelligence.  
-**Beautiful, Human-Centered UI** — Clean, intuitive, and built for effortless use by anyone.  
-**API-Ready Integration** — Easily plugs into hospital systems, pharmacy apps, and EHR platforms.
+* **Real Healthcare Impact** — Automates the messy, everyday workflows that doctors and patients struggle with.  
+* **Truly Smart** — Understands and retrieves prescriptions with semantic precision, not just OCR text.  
+* **100% Local & Private** — Your medical data stays with you. No cloud. No leaks. Total control.  
+* **Lightning Fast** — Powered by **Groq inference**, enabling real-time, low-latency intelligence.  
+* **Beautiful, Human-Centered UI** — Clean, intuitive, and built for effortless use by anyone.  
+* **API-Ready Integration** — Easily plugs into hospital systems, pharmacy apps, and EHR platforms.
 
 > **LoopCare wins because it turns handwritten confusion into digital clarity — instantly, privately, and intelligently.**
 
