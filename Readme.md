@@ -37,14 +37,22 @@ LoopCare makes medical data:
  ✅ Accessible
 
 ---
-# Customer Friendly UI
+
+# 🩺 **FEATURES OF LOOPCARE**
+
+## 🖥️ Customer Friendly UI
 ![alt text](image-1.png)
-# Semantic Understanding: 
+
+## 🧠 Semantic Understanding
 ![alt text](image.png)
-# Retrive Information from any Prescription:
+
+## 🔍 Retrieve Information from Any Prescription
 ![alt text](image-2.png)
-Even after uploading 3 prescriptions , it can understand every semantic information of every prescription and retrives intelligently.
+
+Even after uploading multiple prescriptions, LoopCare can understand the **semantic meaning** of each and **retrieve information intelligently**.
+
 ---
+
 
 ## **⚙️ The Flow**
 
